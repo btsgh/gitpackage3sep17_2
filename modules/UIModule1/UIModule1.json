@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "68ca84a15214b872f318bf1c_e2e9f9a6-e03f-4321-92e0-2b9f0c9bb33e",
+  "moduleUUID": "accd8530-3da3-4292-8d95-df8f7343f329",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "vxiculogym",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 579,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 609,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UIModule1",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "ilsdozymtt",
+        "sectionName": ""
+      }
+    ]
+  }
+}
