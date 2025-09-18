@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "68cac9aa2c9b7275b755ba99_6283fb4e-7594-428d-bcb9-843a84a89153",
-  "moduleUUID": "30bc4f16-bb8e-4198-b4d6-3220b2012913",
+  "gitSyncId": "68cac9aa2c9b7275b755ba99_71f4f445-9236-42ee-9256-6c3df7c537a2",
+  "moduleUUID": "de06b7c8-1cd4-4b78-aa78-a47ddbda3073",
   "type": "UI_MODULE",
   "unpublishedModule": {
     "inputsForm": [
       {
         "children": [],
-        "id": "cyqnsinxzc",
+        "id": "mtpgbwbayv",
         "sectionName": ""
       }
     ],
@@ -35,11 +35,11 @@
         }
       }
     ],
-    "name": "UIModule6",
+    "name": "UIModule7",
     "outputsForm": [
       {
         "children": [],
-        "id": "fxjmxzxxzz",
+        "id": "faryzfqibp",
         "sectionName": ""
       }
     ]
