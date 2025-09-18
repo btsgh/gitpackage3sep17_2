@@ -1,0 +1,22 @@
+{
+  "gitSyncId": "68cb9c670966e33fb4645533_eae96fc5-126a-4b0d-bb18-750ef9a3a3e3",
+  "id": "UIModule8_JSObject1",
+  "isPublic": false,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "UIModule8",
+    "name": "JSObject1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
