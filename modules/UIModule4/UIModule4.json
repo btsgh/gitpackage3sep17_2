@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "68cac9aa2c9b7275b755ba99_bce34abf-0ab7-4ae8-9cfb-82dccc853965",
+  "moduleUUID": "ef8174b0-693c-4eb0-8c7f-baa464ea7705",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "glwgaeslue",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 381,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 411,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 91,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UIModule4",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "vwbllfeddr",
+        "sectionName": ""
+      }
+    ]
+  }
+}
